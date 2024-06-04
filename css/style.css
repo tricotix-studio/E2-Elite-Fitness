@@ -414,11 +414,11 @@ hr {
     top: auto;
     margin-left: -22px;
     margin-top: 2px;
-    -webkit-animation: rotate 1s infinite linear;
-    -moz-animation: rotate 1s infinite linear;
-    -ms-animation: rotate 1s infinite linear;
-    -o-animation: rotate 1s infinite linear;
-    animation: rotate 1s infinite linear;
+    -webkit-animation: rotate 2s infinite linear;
+    -moz-animation: rotate 2s infinite linear;
+    -ms-animation: rotate 2s infinite linear;
+    -o-animation: rotate 2s infinite linear;
+    animation: rotate 2s infinite linear;
     border: 2px solid #323232;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
